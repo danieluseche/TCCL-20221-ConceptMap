@@ -35,9 +35,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="574.17071"
-     inkscape:cy="569.22096"
+     inkscape:zoom="0.5"
+     inkscape:cx="788"
+     inkscape:cy="1219"
      inkscape:window-width="1280"
      inkscape:window-height="656"
      inkscape:window-x="0"
@@ -48,6 +48,169 @@
      inkscape:document-rotation="0" />
   <defs
      id="defs829">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect255196"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect255192"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect255188"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect254545"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect253365"
+       is_visible="true"
+       lpeversion="1"
+       pattern="m 306.47722,289.32355 46.55961,0.85672"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect253314"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect252676"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect252670"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect252664"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect252578"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect252034"
+       is_visible="true"
+       lpeversion="1"
+       pattern="m 306.47722,289.32355 46.55961,0.85672"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect251983"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect251813"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect250648"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect250644"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect249792"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect249788"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect249011"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect249007"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect249003"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect248999"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect248995"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect248357"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect247566"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect247449"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect247445"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect244797"
+       is_visible="true"
+       lpeversion="1" />
+    <rect
+       x="643.72129"
+       y="1228.4157"
+       width="106.8698"
+       height="86.333319"
+       id="rect239070" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect228036"
@@ -217,12 +380,159 @@
        width="470.87024"
        height="172.45702"
        id="rect363962" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect227429-5"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect227429-2"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect227429-1"
+       is_visible="true"
+       lpeversion="1" />
   </defs>
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-232.41784,181.28346)">
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 271.84531,-84.207828 c 2.77291,-8.025985 6.4746,-15.730664 11.00754,-22.911052 16.94167,-26.83642 45.95357,-45.72066 77.35093,-50.34878"
+       id="path255186"
+       inkscape:path-effect="#path-effect255188"
+       inkscape:original-d="m 271.84531,-84.207828 c 3.66944,-7.636754 7.33863,-15.273772 11.00754,-22.911052 3.66892,-7.63728 51.56755,-33.56559 77.35093,-50.34878" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 384.61886,-85.017572 c 3.74016,-5.503371 6.9967,-11.335283 9.71984,-17.406558 4.63128,-10.3255 7.71162,-21.34501 9.10595,-32.57535"
+       id="path255190"
+       inkscape:path-effect="#path-effect255192"
+       inkscape:original-d="m 384.61886,-85.017572 c 3.24021,-5.801921 6.48015,-11.604104 9.71984,-17.406558 3.23968,-5.80244 6.0709,-21.71663 9.10595,-32.57535" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 595.73327,-83.289862 c -7.29888,-6.708526 -15.03987,-12.935973 -23.15607,-18.628538 -28.93151,-20.29207 -62.68576,-33.65889 -97.66614,-38.6762"
+       id="path255194"
+       inkscape:path-effect="#path-effect255196"
+       inkscape:original-d="m 595.73327,-83.289862 c -7.71842,-6.209249 -15.43711,-12.418761 -23.15607,-18.628538 -7.71898,-6.20978 -65.11049,-25.78387 -97.66614,-38.6762" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 271.84531,-84.207828 c -2.61628,7.322302 -3.5248,15.248797 -2.63312,22.973172 0.23289,2.017494 0.58621,4.018914 0.94275,6.018263 1.11703,6.263855 2.27105,12.551095 2.44823,18.911303 0.0601,2.155528 0.008,4.313192 -0.11181,6.466252 -0.34949,6.305655 -1.30034,12.673868 -3.90402,18.427501 -0.87393,1.9312188 -1.92695,3.7772618 -2.80267,5.7076687 -2.67762,5.9024531 -3.60859,12.8203198 -1.37905,18.9061853 0.81016,2.211437 2.00811,4.25569 3.07965,6.352977 2.88097,5.638827 4.88698,11.826527 4.99147,18.157832 0.0371,2.247781 -0.16454,4.49191 -0.3676,6.730807 -0.54794,6.041359 -1.10775,12.081666 -1.6341,18.124945 -0.19607,2.251249 -0.38755,4.503358 -0.65189,6.747616 -0.71562,6.075647 -1.96308,12.076506 -2.79464,18.137372 -0.30338,2.211224 -0.55136,4.430205 -0.73227,6.6548 -0.51308,6.309094 -0.4641,12.797514 1.58367,18.787054 0.61694,1.80448 1.40864,3.54318 2.15079,5.29987 2.60223,6.15951 4.61903,12.64329 5.04774,19.31617 0.12647,1.96844 0.11421,3.94308 0.0775,5.91524 -0.1196,6.42456 -0.49814,12.84104 -0.80975,19.25915 -0.0868,1.78831 -0.16854,3.57797 -0.35079,5.35908 -0.64014,6.25612 -2.50877,12.3156 -3.63069,18.50351 -0.40269,2.22101 -0.70905,4.45819 -1.01729,6.69427 -0.82729,6.00146 -1.67055,12.02098 -1.73057,18.0789 -0.0225,2.2727 0.0654,4.54485 0.14397,6.8163 0.21386,6.18013 0.37753,12.47057 2.34884,18.33177 0.76256,2.26727 1.78561,4.43632 2.7676,6.61754 2.53256,5.62538 4.81274,11.38799 6.30328,17.3744 2.12325,8.5275 2.61255,17.37355 2.75517,26.16025 0.0377,2.32083 0.0518,4.64362 -0.0665,6.96174 -0.61379,12.02884 -4.76764,23.64079 -5.67894,35.65076 -0.91181,12.01679 1.44367,24.0038 2.94642,35.96108 2.39404,19.04925 2.63044,38.35155 1.02899,57.48374 -0.16362,1.95468 -0.34634,3.90773 -0.50792,5.86258 -0.38278,4.631 -0.64892,9.28736 -1.55894,13.84417 -0.91002,4.55681 -2.50051,9.05485 -5.2888,12.77212 -1.29371,1.72473 -2.82419,3.25536 -4.2453,4.87672 -4.62364,5.27514 -8.0959,11.55423 -10.10572,18.27478"
+       id="path254543"
+       inkscape:path-effect="#path-effect254545"
+       inkscape:original-d="m 271.84531,-84.207828 c -0.87744,7.657988 -1.75515,15.315713 -2.63312,22.973172 -0.87798,7.65746 0.62876,4.012441 0.94275,6.018263 0.31399,2.005822 1.63242,12.6078 2.44823,18.911303 0.81581,6.303502 -0.0743,4.311099 -0.11181,6.466252 -0.0375,2.155153 -2.60242,12.285266 -3.90402,18.427501 -1.3016,6.1422389 -1.86818,3.8053781 -2.80267,5.7076687 -0.93449,1.9022907 -0.91911,12.6043874 -1.37905,18.9061853 -0.45995,6.301798 2.05337,4.235582 3.07965,6.352977 1.02629,2.117394 3.32791,12.105486 4.99147,18.157832 1.66356,6.052344 -0.2448,4.487469 -0.3676,6.730807 -0.1228,2.243336 -1.08914,12.083561 -1.6341,18.124945 -0.54497,6.041385 -0.43433,4.498676 -0.65189,6.747616 -0.21756,2.24894 -1.86283,12.091844 -2.79464,18.137372 -0.93181,6.045518 -0.48792,4.436798 -0.73227,6.6548 -0.24436,2.218002 1.05605,12.524974 1.58367,18.787054 0.52763,6.26211 1.43413,3.53351 2.15079,5.29987 0.71667,1.76636 3.36543,12.87772 5.04774,19.31617 1.68232,6.43848 0.0519,3.94375 0.0775,5.91524 0.0256,1.97146 -0.53957,12.8397 -0.80975,19.25915 -0.27017,6.41948 -0.23359,3.57299 -0.35079,5.35908 -0.11719,1.7861 -2.42019,12.33594 -3.63069,18.50351 -1.21049,6.16757 -0.67793,4.46309 -1.01729,6.69427 -0.33936,2.23115 -1.15345,12.05286 -1.73057,18.0789 -0.57712,6.02605 0.0962,4.54446 0.14397,6.8163 0.0477,2.27185 1.56616,12.22145 2.34884,18.33177 0.78268,6.11034 1.84533,4.41195 2.7676,6.61754 0.92226,2.20557 4.20245,11.5832 6.30328,17.3744 2.10083,5.7912 1.83704,17.44043 2.75517,26.16025 0.91812,8.71982 -0.0441,4.64143 -0.0665,6.96174 -0.0224,2.32032 -4.90742,13.93583 -5.67894,35.65076 -0.77151,21.71494 3.08627,33.80594 2.94642,35.96108 -0.13985,2.15516 0.68625,38.32275 1.02899,57.48374 0.34273,19.16097 -0.33835,3.90866 -0.50792,5.86258 -0.16957,1.95395 -4.5649,17.74447 -6.84774,26.61629 -2.28284,8.87183 -2.82994,3.25142 -4.2453,4.87672 -1.41537,1.62534 -6.73688,12.18346 -10.10572,18.27478"
+       sodipodi:nodetypes="csssssssssssssssssssssssssssssssssssc" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1.00000003;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 595.73328,-83.289861 c 4.52967,3.792857 7.77051,9.070719 9.10548,14.799128 1.3341,5.728619 0.75361,11.869968 -1.61276,17.22644 -0.95892,2.168786 -2.19054,4.194453 -3.45195,6.184594 0,10e-7 0,2e-6 0,3e-6 -1.97639,3.120118 -4.04568,6.190936 -5.56122,9.547131 -1.51452,3.355616 -2.46727,7.059057 -2.05889,10.727063 0.19029,1.709055 0.67509,3.386723 1.42488,4.938628 1.65935,3.432067 4.5136,6.108875 6.97922,8.993263 0,2e-6 10e-6,4e-6 10e-6,5e-6 1.23179,1.4428786 2.38401,2.9630554 3.2341,4.643734 0.84926,1.6802002 1.396,3.5337236 1.36812,5.39648065 -0.0206,1.67813561 -0.50496,3.32593995 -1.0142,4.95790145 -2.1676,6.9042679 -4.91814,13.7600069 -9.52776,19.2520159 -1.83861,2.194702 -3.95656,4.152606 -6.28427,5.811081"
+       id="path253312"
+       inkscape:path-effect="#path-effect253314;#path-effect253365"
+       inkscape:original-d="m 595.46049,-82.959596 c 2.52936,10.539593 5.05846,21.07892 7.58732,31.617986 2.52883,10.539063 -2.26528,4.123034 -3.39831,6.184157 -1.13302,2.06112 -4.99557,13.568089 -7.49377,20.351739 -2.49819,6.783646 0.97079,3.282111 1.45579,4.922771 0.48499,1.640657 7.82582,12.7008545 11.73835,19.05088618 3.91253,6.35003172 -0.65942,3.34837352 -0.98952,5.02216202 -0.33012,1.6737885 -6.30425,12.9483588 -9.45676,19.4221418 -3.15251,6.473782 -4.21214,3.948615 -6.31862,5.922526" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 416.34284,96.458417 41.13221,0.275722"
+       id="path252672"
+       inkscape:path-effect="#path-effect252676"
+       inkscape:original-d="m 416.34284,96.458417 c 15.52014,0.28583 25.61261,-0.0096 41.13221,0.275722"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 416.34284,57.829226 41.13221,0.275722"
+       id="path252666"
+       inkscape:path-effect="#path-effect252670"
+       inkscape:original-d="m 416.34284,57.829226 c 15.52014,0.28583 25.61261,-0.0096 41.13221,0.275722"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 416.34284,16.5542 41.13221,0.275722"
+       id="path252660"
+       inkscape:path-effect="#path-effect252664"
+       inkscape:original-d="m 416.34284,16.5542 c 15.52014,0.28583 25.61261,-0.0096 41.13221,0.275722"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 416.34284,-22.074979 41.13221,0.275722"
+       id="path252574"
+       inkscape:path-effect="#path-effect252578"
+       inkscape:original-d="m 416.34284,-22.074979 c 15.52014,0.28583 25.61261,-0.0096 41.13221,0.275722"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 416.34284,-58.058335 41.13221,0.275722"
+       id="path227427-9"
+       inkscape:path-effect="#path-effect227429-2"
+       inkscape:original-d="m 416.34284,-58.058335 c 15.52014,0.28583 25.61261,-0.0096 41.13221,0.275722"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       d="m 304.55806,456.44846 c 13.13418,-3.94729 26.69354,-6.4782 40.3673,-7.5347 3.75901,-0.29044 7.52661,-0.46984 11.29621,-0.5379"
+       id="path250642"
+       inkscape:path-effect="#path-effect250644"
+       inkscape:original-d="m 304.55806,456.44846 c 13.45603,-2.51132 26.9118,-5.02288 40.3673,-7.5347 13.45551,-2.51185 7.53107,-0.35832 11.29621,-0.5379" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1.00000003;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.00000003, 3.00000008;stroke-dashoffset:0"
+       d="m 304.55806,456.44846 c 12.62198,5.18269 26.1514,8.14664 39.78411,8.71569 3.70686,0.15473 7.42103,0.134 11.12593,-0.0621"
+       id="path250646"
+       inkscape:path-effect="#path-effect250648"
+       inkscape:original-d="m 304.55806,456.44846 c 13.26164,2.9055 26.52301,5.81073 39.78411,8.71569 13.26111,2.90497 7.41756,-0.0411 11.12593,-0.0621" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       d="m 305.1756,423.8614 c 12.91324,-3.78519 26.28208,-6.01344 39.72492,-6.62117 3.43368,-0.15523 6.87213,-0.2052 10.30887,-0.14981"
+       id="path249786"
+       inkscape:path-effect="#path-effect249788"
+       inkscape:original-d="m 305.1756,423.8614 c 13.2419,-2.20678 26.48354,-4.41386 39.72492,-6.62117 13.24137,-2.20734 6.87285,-0.0996 10.30887,-0.14981" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,3;stroke-dashoffset:0"
+       d="m 305.1756,423.8614 c 12.45115,5.17421 25.77667,8.23692 39.23746,9.01827 2.96248,0.17196 5.93132,0.23438 8.89841,0.18709"
+       id="path249790"
+       inkscape:path-effect="#path-effect249792"
+       inkscape:original-d="m 305.1756,423.8614 c 13.07942,3.00635 26.15857,6.01244 39.23746,9.01827 13.07889,3.00582 5.93254,0.12499 8.89841,0.18709" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1.00000003;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.00000003,3.00000008;stroke-dashoffset:0"
+       d="m 304.51163,361.02349 c 5.79605,-8.2875 13.96969,-14.89199 23.28953,-18.81849 5.31706,-2.2401 10.97662,-3.61761 16.70183,-4.33255 3.33117,-0.41598 6.69002,-0.61017 10.04693,-0.58086"
+       id="path248993"
+       inkscape:path-effect="#path-effect248995"
+       inkscape:original-d="m 304.51163,361.02349 c 7.76344,-6.27258 15.52662,-12.5454 23.28953,-18.81849 7.76292,-6.27311 11.13482,-2.88811 16.70183,-4.33255 5.56701,-1.44446 6.69822,-0.38698 10.04693,-0.58086" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,3;stroke-dashoffset:0"
+       d="m 304.51163,361.02349 c 10.46802,-3.81985 21.44048,-6.25473 32.54168,-7.22127 5.86765,-0.51087 11.77084,-0.61318 17.65267,-0.30594"
+       id="path248997"
+       inkscape:path-effect="#path-effect248999"
+       inkscape:original-d="m 304.51163,361.02349 c 10.84749,-2.40683 21.69472,-4.81391 32.54168,-7.22127 10.84696,-2.40736 11.76871,-0.20368 17.65267,-0.30594" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1.00000003;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.00000003, 3.00000008;stroke-dashoffset:0"
+       d="m 304.51163,361.02349 c 8.73852,3.05667 17.72034,5.4175 26.83247,7.05279 4.92351,0.88359 9.89533,1.55654 14.89522,1.70738 2.89186,0.0872 5.78899,-4.7e-4 8.67027,-0.26252"
+       id="path249001"
+       inkscape:path-effect="#path-effect249003"
+       inkscape:original-d="m 304.51163,361.02349 c 8.94442,2.3512 17.88858,4.70212 26.83247,7.05279 8.94389,2.35066 9.93041,1.13853 14.89522,1.70738 4.9648,0.56888 5.78044,-0.17473 8.67027,-0.26252" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1.00000003;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.00000003, 3.00000008;stroke-dashoffset:0"
+       d="m 304.51163,361.02349 c 4.97886,6.68898 11.27239,12.39547 18.41541,16.69767 6.86634,4.13556 14.58618,6.98767 22.57433,7.65019 2.92565,0.24265 5.87552,0.19236 8.7912,-0.14986"
+       id="path249005"
+       inkscape:path-effect="#path-effect249007"
+       inkscape:original-d="m 304.51163,361.02349 c 6.13874,5.56615 12.27721,11.13206 18.41541,16.69767 6.13821,5.56564 15.04982,5.1004 22.57433,7.65019 7.52452,2.54979 5.86107,-0.0996 8.7912,-0.14986" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1.00000003;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.00000003, 3.00000008;stroke-dashoffset:0"
+       d="m 304.51163,361.02349 c -0.19234,6.59971 1.4053,13.24299 4.57737,19.03359 3.17208,5.79061 7.91033,10.71347 13.57553,14.10444 6.53677,3.91266 14.13279,5.73922 21.7072,6.55566 3.83773,0.41367 7.70189,0.5819 11.56105,0.50332"
+       id="path249009"
+       inkscape:path-effect="#path-effect249011"
+       inkscape:original-d="m 304.51163,361.02349 c 6.05123,11.04628 12.1022,22.09229 18.1529,33.13803 6.0507,11.04575 14.47173,4.37071 21.7072,6.55566 7.23547,2.18496 7.70763,0.33581 11.56105,0.50332" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       d="m 304.51163,361.02349 c -0.85694,-7.57722 0.80657,-15.41801 4.66638,-21.99452 4.61834,-7.86894 12.26398,-13.77654 20.8318,-16.9137 7.95679,-2.91343 16.8359,-3.50477 24.96902,-1.12757 0.26099,0.0763 0.52112,0.15552 0.78032,0.2377"
+       id="path248355"
+       inkscape:path-effect="#path-effect248357"
+       inkscape:original-d="m 304.51163,361.02349 c 1.55572,-7.33126 3.11119,-14.66276 4.66638,-21.99452 1.5552,-7.33179 13.88813,-11.27553 20.8318,-16.9137 6.94367,-5.63816 16.64628,-0.75147 24.96902,-1.12757 8.32275,-0.37614 0.52048,0.15872 0.78032,0.2377" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       d="m 386.48828,99.226755 c 1.78146,1.896295 3.15213,4.176555 3.99098,6.639455 1.74527,5.12421 1.06571,11.0177 -1.79999,15.61023"
+       id="path247443"
+       inkscape:path-effect="#path-effect247445"
+       inkscape:original-d="m 386.48828,99.226755 c 1.33059,2.213425 2.66092,4.426585 3.99098,6.639455 1.33007,2.21289 -1.19973,10.40709 -1.79999,15.61023" />
     <path
        style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 384.61886,-85.017572 c -1.96835,3.592488 -2.97359,7.706914 -2.88354,11.802309 0.09,4.095396 1.27514,8.161663 3.39949,11.664166 1.34985,2.22555 3.05775,4.208574 4.5939,6.309857 3.25967,4.458867 5.78869,9.599067 6.35203,15.093575 0.28167,2.747254 0.0623,5.557488 -0.76442,8.192489 -0.82675,2.635001 -2.27041,5.089956 -4.26045,7.004761 -2.69027,2.588565 -6.22662,4.087306 -9.25942,6.264545 -4.93597,3.54352 -8.51004,9.046371 -9.373,15.0609913 -0.43147,3.00731016 -0.1949,6.1140657 0.73433,9.0065747 0.92924,2.892509 2.55393,5.565038 4.72881,7.686352 2.94853,2.875912 6.76458,4.648964 10.29864,6.764425 6.25359,3.743355 11.87295,8.812689 15.29069,15.250015 1.70887,3.218663 2.84736,6.754346 3.19517,10.381887 0.34781,3.627541 -0.10602,7.345811 -1.4491,10.733457 -0.7597,1.916171 -1.7933,3.711648 -2.8911,5.456264 -3.20388,5.091583 -6.98039,9.807345 -10.12629,14.934949 -3.14591,5.127604 -5.68564,10.8041 -6.05103,16.808727 -0.11849,1.947128 -0.006,3.908216 0.33471,5.828983"
@@ -325,7 +635,7 @@
            id="tspan15793">Pico Celda</tspan></text>
     </g>
     <g
-       id="g186224">
+       id="basicConcepts">
       <rect
          style="fill:#125b50;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect915"
@@ -429,7 +739,9 @@
        id="text161540"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect161542)" />
     <g
-       id="g186229">
+       id="generations">
+      <title
+         id="title256809">Evolución de las redes móviles</title>
       <rect
          style="fill:#125b50;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect177278"
@@ -466,7 +778,9 @@
        id="text202164"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect202166)" />
     <g
-       id="g186745">
+       id="emWave">
+      <title
+         id="title258880">La radiación electromagnética es un tipo de campo electromagnético variable, es decir, una combinación de campos eléctricos y magnéticos oscilantes, que se propagan a través del espacio transportando energía de un lugar a otro.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect222272"
@@ -489,12 +803,15 @@
     </g>
     <rect
        style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect222280"
+       id="radioWave"
        width="70.893074"
        height="10.038904"
        x="237.51352"
        y="11.147906"
-       ry="0.73316175" />
+       ry="0.73316175">
+      <title
+         id="title258882">Es la porción menos energética del espectro electromagnético, situada entre los 3 hercios (Hz) y 300 gigahercios (GHz).</title>
+    </rect>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
@@ -507,7 +824,9 @@
          x="255.51825"
          y="17.745556">Onda de Radio</tspan></text>
     <g
-       id="g187070">
+       id="cell">
+      <title
+         id="title259413">Es la unidad de área de cobertura de RF para sistemas celulares</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect222288"
@@ -529,7 +848,9 @@
            y="141.82481">Celda o Célula</tspan></text>
     </g>
     <g
-       id="g187047">
+       id="cluster">
+      <title
+         id="title259415">Grupo de celulas donde se utilizan todos los canales de transmisión disponibles.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect222296"
@@ -561,7 +882,9 @@
        id="text237533"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect237535)" />
     <g
-       id="g187024">
+       id="freqReuse">
+      <title
+         id="title260467">El mismo canal de radiofrecuencia puede ser usada en un área diferente para una transmisión completamente diferente.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect238245"
@@ -583,7 +906,9 @@
            y="191.42261">Reutilización de Frecuencia</tspan></text>
     </g>
     <g
-       id="g186845">
+       id="roaming">
+      <title
+         id="title262606">Diferentes servidores pueden proporcionar servicio a un usuario. Cuando cooperan diferentes operadores de red, pueden usar esta posibilidad para ofrecer a sus abonados un área de cobertura mucho mayor que cualquiera de ellos pudiera ofrecer por sí mismo.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect238251"
@@ -610,7 +935,9 @@
        id="text275278"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect275280)" />
     <g
-       id="g187001">
+       id="minFreqReuse">
+      <title
+         id="title260469">Es la distancia mínima que puede haber entre el centro de dos celdas que utilicen el mismo canal de transmisión.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect276805"
@@ -643,12 +970,15 @@
        style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect296695)" />
     <rect
        style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect298355"
+       id="channelReasing"
        width="70.893074"
        height="10.038904"
        x="237.51352"
        y="419.75119"
-       ry="0.73316175" />
+       ry="0.73316175">
+      <title
+         id="title261534">Para la utilización eficiente del espectro de radio, se requiere un sistema de reuso de frecuencias que aumente la capacidad y minimice las interferencias.</title>
+    </rect>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
@@ -666,7 +996,9 @@
          y="428.99466"
          id="tspan28267">de canales</tspan></text>
     <g
-       id="g186680">
+       id="mobileComunications">
+      <title
+         id="title257326">Es un medio de comunicación inalámbrico a través de ondas electromagnéticas.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect305882"
@@ -728,7 +1060,7 @@
        id="text362245"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect362247)" />
     <g
-       id="g187713">
+       id="2da">
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect363924"
@@ -760,7 +1092,7 @@
        id="text368601"
        style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect368603)" />
     <g
-       id="g187708">
+       id="3ra">
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect376169"
@@ -782,7 +1114,7 @@
            y="18.185049">3ra Generación</tspan></text>
     </g>
     <g
-       id="g187703">
+       id="4ta">
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect376175"
@@ -804,7 +1136,7 @@
            y="59.876869">4ta Generación</tspan></text>
     </g>
     <g
-       id="g187698">
+       id="5ta">
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect376181"
@@ -826,7 +1158,7 @@
            y="97.96312">5ta Generación</tspan></text>
     </g>
     <g
-       id="g187718">
+       id="1ra">
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect376083"
@@ -878,7 +1210,9 @@
            id="tspan179">Dispositivos Terminales</tspan></text>
     </g>
     <g
-       id="g186750">
+       id="wave">
+      <title
+         id="title257844">La radiación electromagnética es un tipo de campo electromagnético variable, es decir, una combinación de campos eléctricos y magnéticos oscilantes, que se propagan a través del espacio transportando energía de un lugar a otro.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect998"
@@ -900,7 +1234,10 @@
            y="-31.852245">Onda</tspan></text>
     </g>
     <g
-       id="g187163">
+       id="howIsTransmitted">
+      <title
+         id="title258884">1)Un transmisor codifica mensajes haciendo variar la frecuencia o la amplitud de la onda
+2)Un receptor capta la señal y la decodifica en la forma deseada (Sonidos, imagenes, datos).</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2720"
@@ -927,7 +1264,9 @@
            id="tspan4709">la información?</tspan></text>
     </g>
     <g
-       id="g187116">
+       id="cellNetwork">
+      <title
+         id="title259409">Red de antenas que permiten la comunicacion móvil.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect9265"
@@ -949,7 +1288,9 @@
            y="92.142258">Red Celular</tspan></text>
     </g>
     <g
-       id="g187093">
+       id="cellShape">
+      <title
+         id="title259411">La forma hexagonal de la célula es un modelo simple de la cobertura de radio para cada radio base, pero ha sido universalmente adoptado dado que el hexágono permite un análisis fácil y manejable de un sistema celular.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect10173"
@@ -971,7 +1312,9 @@
            y="116.94116">Forma Celular</tspan></text>
     </g>
     <g
-       id="g186909">
+       id="handoff">
+      <title
+         id="title261532">Como se gestionan las llamadas cuando un usuario pasa de una célula a otra.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect12075"
@@ -993,7 +1336,9 @@
            id="tspan12077">Handoff</tspan></text>
     </g>
     <g
-       id="g186978">
+       id="sectorization">
+      <title
+         id="title260998">Utilizando antenas direccionales en una BTS, cada una apuntando en una dirección, es posible sectorizar la estacion base, de modo que multiples celdas sean atendidas desde la misma ubicación.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect12305"
@@ -1015,7 +1360,9 @@
            id="tspan12307">Sectorización</tspan></text>
     </g>
     <g
-       id="g186932">
+       id="cobertura">
+      <title
+         id="title261530">Area de cobertura de las celdas</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect15079"
@@ -1299,7 +1646,9 @@ Los canales no se colocan en diferentes células permanentemente. En su lugar, c
        id="text65108"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect65110);fill:#000000;fill-opacity:1;stroke:none" />
     <g
-       id="g186868">
+       id="interference">
+      <title
+         id="title262070">La interferencia es el principal factor que limita el desarrollo de los sistemas celulares. Las fuentes de interferencias incluyen a otros móviles dentro de la misma célula,  que  introduce energía dentro de la banda de frecuencia utilizada.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect73443"
@@ -1321,7 +1670,9 @@ Los canales no se colocan en diferentes células permanentemente. En su lugar, c
            id="tspan73445">Interferencia</tspan></text>
     </g>
     <g
-       id="g186955">
+       id="splitting">
+      <title
+         id="title261528">Es el proceso de subdividir una célula congestionada en células más pequeñas, cada una con su propia radio base. El splitting incrementa la capacidad del sistema celular dado que incrementa el número de reutilización de canales.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect77348"
@@ -1343,7 +1694,9 @@ Los canales no se colocan en diferentes células permanentemente. En su lugar, c
            id="tspan77350">splitting</tspan></text>
     </g>
     <g
-       id="g187139">
+       id="channel">
+      <title
+         id="title258886">Medio de Transmisión por el que pasan las señales portadoras de información que pretende intercambiar emisor y receptor. Es común referenciarlo como canal de datos.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect85020"
@@ -1788,7 +2141,7 @@ Los canales no se colocan en diferentes células permanentemente. En su lugar, c
     <g
        id="g157383"
        transform="translate(322.88001,128.65302)"
-       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Red_de_celdas#%C3%81rea_de_cobertura_de_una_celda&quot;)">
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Red_de_celdas#Reutilizaci%C3%B3n_de_frecuencias&quot;)">
       <title
          id="title157375">Mas información</title>
       <circle
@@ -2123,8 +2476,10 @@ Los canales no se colocan en diferentes células permanentemente. En su lugar, c
            id="tspan75500">cross-talk</tspan></text>
     </g>
     <g
-       id="g168375"
+       id="ADI"
        transform="translate(15.656887)">
+      <title
+         id="title262068">Es una interferencia causada por una radiación electromagnética espuria de un canal adyacente.</title>
       <rect
          style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect166298"
@@ -2385,5 +2740,32 @@ Los canales no se colocan en diferentes células permanentemente. En su lugar, c
            x="-87.792023"
            y="58.431683">?</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="388.21906"
+       y="126.9992"
+       id="text234786"><tspan
+         sodipodi:role="line"
+         id="tspan234784"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="388.21906"
+         y="126.9992">Rumbo al</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="388.21906"
+         y="134.05475"
+         id="tspan234788">6G</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,232.41784,-181.28346)"
+       id="text239068"
+       style="line-height:1.25;font-family:sans-serif;font-size:21.33333333px;white-space:pre;shape-inside:url(#rect239070)" />
+    <path
+       style="fill:none;stroke:#ff6363;stroke-width:1.00000003;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.00000003, 3.00000008;stroke-dashoffset:0"
+       d="m 383.05784,134.01647 c -0.6576,2.74034 -0.61522,5.64566 0.12204,8.36565 1.40278,5.17533 5.41952,9.56939 10.44846,11.42995"
+       id="path247564"
+       inkscape:path-effect="#path-effect247566"
+       inkscape:original-d="m 383.05784,134.01647 c 0.0409,2.78882 0.0816,5.57737 0.12204,8.36565 0.0404,2.78829 6.96591,7.62024 10.44846,11.42995" />
   </g>
 </svg>
