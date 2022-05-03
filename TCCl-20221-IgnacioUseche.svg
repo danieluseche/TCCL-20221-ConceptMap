@@ -37,8 +37,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.74118968"
-     inkscape:cx="526.18393"
-     inkscape:cy="387.41354"
+     inkscape:cx="573.59437"
+     inkscape:cy="495.34812"
      inkscape:window-width="1366"
      inkscape:window-height="704"
      inkscape:window-x="0"
@@ -839,14 +839,17 @@
            x="-117.38573"
            y="117.49941">2da Generación</tspan></text>
     </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect363948"
-       width="70.368469"
-       height="29.196863"
-       x="-226.83568"
-       y="62.895"
-       ry="2.1323066" />
+    <g
+       id="g219">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect363948"
+         width="70.368469"
+         height="29.196863"
+         x="-216.63133"
+         y="72.265495"
+         ry="2.1323066" />
+    </g>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-395.90089,52.41383)"
@@ -926,7 +929,10 @@
            y="163.40974">5ta Generación</tspan></text>
     </g>
     <g
-       id="g393632">
+       id="g393632"
+       onmouseover="document.getElementById(&quot;g219&quot;).style.visibility=&quot;hidden&quot;;"
+       onclick=""
+       onmouseout="document.getElementById(&quot;g219&quot;).style.visibility=&quot;visible&quot;;">
       <rect
          style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect376083"
