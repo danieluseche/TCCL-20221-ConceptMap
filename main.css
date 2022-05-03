@@ -1,42 +1,55 @@
 body{
-    background-color: #eee;
+    background-color: #555;
     margin: 1px;   
 }
-ul {
-    list-style-type: none;
-    padding: 0px;
-    margin: auto;
+
+nav{
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
     position: fixed;
 }
 
-li{
-   display: inline;
+main,
+menu{
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+}
+
+nav a{
+   text-decoration: none;
    padding: 15px;
    margin-left: 1px;
    background-color: red;
    border-radius: 0px 0px 8px 8px;
    color: #fff;
    font-weight: bolder;
-}
+   float: left; 
+} 
 
-ul a{
-   text-decoration: none;
-   color: #fff; 
+.svgContainer,
+img{
+    max-width: 1080px;
+    height: auto;
 }
 
 footer{
     background-color: #555;
-    color: white;
+    color: #fff;
     padding: 15px;
+    width:100%;
 }
 
 div.container{
     margin: 0;
     border-left: solid 1px #fff;
+    border-bottom: solid 1px #fff;
     padding: 10px 20px;
     float: left;
     max-width: 300px;
     height: 180px;
+    background-color: #555;
 } 
 
 .container a:link,
@@ -52,9 +65,13 @@ div.container{
 .container a:hover{
     text-decoration: underline;
     font-weight: bolder;
+    background-color: #555;
     
 }
 
-footer h3{
+#LinkedIn,
+#Github{
     display: inline;
+    margin: 10px;
+    padding: 0;
 }

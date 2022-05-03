@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="537.68188mm"
    height="239.18732mm"
    viewBox="0 0 537.68188 239.1873"
    version="1.1"
    id="svg832"
-   inkscape:version="1.1.2 (0a00cf5, 2022-02-04)"
-   sodipodi:docname="TCCl-20221-IgnacioUseche.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="TCCl-20221-IgnacioUseche.svg">
+  <metadata
+     id="metadata164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview834"
      pagecolor="#505050"
@@ -23,16 +36,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.37059484"
-     inkscape:cx="653.00424"
-     inkscape:cy="416.89733"
-     inkscape:window-width="1280"
-     inkscape:window-height="656"
+     inkscape:zoom="0.74118968"
+     inkscape:cx="526.18393"
+     inkscape:cy="387.41354"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     showguides="true" />
+     showguides="true"
+     inkscape:document-rotation="0" />
   <defs
      id="defs829">
     <rect
@@ -178,8 +192,8 @@
        id="rect393654"
        width="154.21547"
        height="86.971024"
-       x="-117.28664"
-       y="-4.5711865"
+       x="-117.87647"
+       y="-3.6508703"
        ry="6.3516712" />
     <g
        id="g187504"
@@ -213,7 +227,7 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-98.303731,-3.2730868)"
        id="text144840"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect144842)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect144842);" />
     <rect
        style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect39016"
@@ -350,7 +364,7 @@
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-108.75339,6.4784809)"
          id="text158150"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect158154)" />
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect158154);" />
     </g>
     <g
        id="g187498"
@@ -384,12 +398,12 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-96.60189,42.538577)"
        id="text158166"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect158170)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect158170);" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,3.8754337)"
        id="text161540"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect161542)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect161542);" />
     <g
        id="g187492"
        transform="translate(-113.66246,-99.189912)">
@@ -419,40 +433,46 @@
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.26458333,-108.75339,6.4784809)"
            id="text177288"
-           style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect177292)" />
+           style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect177292);" />
       </g>
     </g>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,-9.663615)"
        id="text197880"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect197882)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect197882);" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,-9.663615)"
        id="text202164"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect202166)" />
-    <rect
-       style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect222272"
-       width="70.893074"
-       height="10.038904"
-       x="238.30997"
-       y="10.451025"
-       ry="0.73316175" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="245.94737"
-       y="16.706575"
-       id="text222276"><tspan
-         sodipodi:role="line"
-         id="tspan222274"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="245.94737"
-         y="16.706575">Onda Electromagnética</tspan></text>
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect202166);" />
     <g
-       id="g238222">
+       id="g169">
+      <title
+         id="title171">Perturbación de los campos B y E que puede transmitirse sin necesidad de un medio material</title>
+      <rect
+         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect222272"
+         width="70.893074"
+         height="10.038904"
+         x="238.30997"
+         y="10.451025"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="245.94737"
+         y="16.706575"
+         id="text222276"><tspan
+           sodipodi:role="line"
+           id="tspan222274"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="245.94737"
+           y="16.706575">Onda Electromagnética</tspan></text>
+    </g>
+    <g
+       id="g238222"
+       transform="translate(0.81712928,0.41135348)">
       <rect
          style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect222280"
@@ -521,12 +541,12 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,-9.663615)"
        id="text229906"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect229908)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect229908);" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text237533"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect237535)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect237535);" />
     <g
        id="g276692">
       <rect
@@ -572,7 +592,8 @@
            id="tspan272148">Handoff</tspan></text>
     </g>
     <g
-       id="g265842">
+       id="g265842"
+       transform="translate(-0.16175326,0.50756825)">
       <circle
          style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path43676"
@@ -595,7 +616,7 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text275278"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect275280)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect275280);" />
     <g
        id="g298342">
       <rect
@@ -622,53 +643,35 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text289515"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect289517)" />
-    <g
-       id="g298353">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect292801"
-         width="70.893074"
-         height="10.038904"
-         x="238.18378"
-         y="140.87636"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="245.34163"
-         y="147.06369"
-         id="text292805"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="245.34163"
-           y="147.06369"
-           id="tspan292803">Dispositivos Terminales</tspan></text>
-    </g>
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect289517);" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text296693"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect296695)" />
-    <rect
-       style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect298344"
-       width="70.893074"
-       height="10.038904"
-       x="124.36994"
-       y="173.11113"
-       ry="0.73316175" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="131.52779"
-       y="179.29846"
-       id="text298348"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="131.52779"
-         y="179.29846"
-         id="tspan298346">BTS</tspan></text>
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect296695);" />
+    <g
+       id="g201"
+       transform="translate(-18.82346,2.5098516)">
+      <rect
+         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect298344"
+         width="70.893074"
+         height="10.038904"
+         x="88.290756"
+         y="192.41685"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="95.448601"
+         y="198.60419"
+         id="text298348"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="95.448601"
+           y="198.60419"
+           id="tspan298346">BTS</tspan></text>
+    </g>
     <rect
        style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect298355"
@@ -727,80 +730,92 @@
            id="tspan305884"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
            x="248.20158"
-           y="-1.9151654">Comunicación Celular</tspan></text>
+           y="-1.9151654">Telefonía Celular</tspan></text>
     </g>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text316991"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect316993)" />
-    <rect
-       style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect318669"
-       width="70.893074"
-       height="10.038904"
-       x="124.30881"
-       y="188.36163"
-       ry="0.73316175" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="131.46666"
-       y="194.54897"
-       id="text318673"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="131.46666"
-         y="194.54897"
-         id="tspan318671">BSC</tspan></text>
-    <rect
-       style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect318675"
-       width="70.893074"
-       height="10.038904"
-       x="123.802"
-       y="204.36644"
-       ry="0.73316175" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="130.95985"
-       y="210.55377"
-       id="text318679"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="130.95985"
-         y="210.55377"
-         id="tspan318677">MSC</tspan></text>
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect316993);" />
+    <g
+       id="g186"
+       transform="translate(-18.762325,3.523751)">
+      <rect
+         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect318669"
+         width="70.893074"
+         height="10.038904"
+         x="88.229622"
+         y="207.66736"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="95.387474"
+         y="213.85469"
+         id="text318673"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="95.387474"
+           y="213.85469"
+           id="tspan318671">BSC</tspan></text>
+    </g>
+    <g
+       id="g191"
+       transform="translate(-18.25552,3.7833443)">
+      <rect
+         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect318675"
+         width="70.893074"
+         height="10.038904"
+         x="87.722816"
+         y="223.67216"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="94.880669"
+         y="229.8595"
+         id="text318679"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="94.880669"
+           y="229.8595"
+           id="tspan318677">MSC</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text340783"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect340785)" />
-    <rect
-       style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect342243"
-       width="70.893074"
-       height="10.038904"
-       x="124.40643"
-       y="220.00642"
-       ry="0.73316175" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="131.56427"
-       y="226.19376"
-       id="text342247"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="131.56427"
-         y="226.19376"
-         id="tspan342245">Internet</tspan></text>
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect340785);" />
+    <g
+       id="g196"
+       transform="translate(-18.859951,4.4077571)">
+      <rect
+         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect342243"
+         width="70.893074"
+         height="10.038904"
+         x="88.327248"
+         y="239.31215"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="95.485085"
+         y="245.49948"
+         id="text342247"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="95.485085"
+           y="245.49948"
+           id="tspan342245">Internet</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text362245"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect362247)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect362247);" />
     <g
        id="g393637"
        transform="translate(0,-2.4882121)">
@@ -836,12 +851,12 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-395.90089,52.41383)"
        id="text363956"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect363962)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect363962);" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text368601"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect368603)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect368603);" />
     <g
        id="g393652"
        transform="translate(0,-4.7700577)">
@@ -936,6 +951,53 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text389475"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect389477)" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect389477);" />
+    <g
+       id="g206"
+       transform="translate(-2.4841575)">
+      <rect
+         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect177"
+         width="70.893074"
+         height="10.038904"
+         x="71.951454"
+         y="178.66231"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="79.109299"
+         y="184.84964"
+         id="text181"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="79.109299"
+           y="184.84964"
+           id="tspan179">Dispositivos Terminales</tspan></text>
+    </g>
+    <g
+       id="g214"
+       transform="translate(-48.364014,36.63277)"
+       onclick="window.open(&quot;https://google.com&quot;)">
+      <title
+         id="title216">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle208"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text212"><tspan
+           sodipodi:role="line"
+           id="tspan210"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
   </g>
 </svg>
