@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="537.68188mm"
-   height="239.18732mm"
-   viewBox="0 0 537.68188 239.1873"
+   width="398.88589mm"
+   height="667.65057mm"
+   viewBox="0 0 398.88589 667.65053"
    version="1.1"
    id="svg832"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="TCCl-20221-IgnacioUseche.svg">
+   inkscape:version="1.1.2 (0a00cf5, 2022-02-04)"
+   sodipodi:docname="TCCl-20221-IgnacioUseche.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata164">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,11 +35,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.74118968"
-     inkscape:cx="573.59437"
-     inkscape:cy="495.34812"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="574.17071"
+     inkscape:cy="569.22096"
+     inkscape:window-width="1280"
+     inkscape:window-height="656"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,6 +48,43 @@
      inkscape:document-rotation="0" />
   <defs
      id="defs829">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect228036"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect227429"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect226860"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect225896"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect171256"
+       is_visible="true"
+       lpeversion="1" />
+    <rect
+       x="2308.0662"
+       y="854.33282"
+       width="359.12491"
+       height="166.6451"
+       id="rect65110" />
+    <rect
+       x="2059.6375"
+       y="761.92438"
+       width="394.54095"
+       height="117.18913"
+       id="rect40721" />
     <rect
        x="165.2274"
        y="627.93372"
@@ -186,474 +222,40 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(227.29819,8.8697788)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.36346;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect393654"
-       width="154.21547"
-       height="86.971024"
-       x="-117.87647"
-       y="-3.6508703"
-       ry="6.3516712" />
-    <g
-       id="g187504"
-       transform="translate(93.934512,-62.3111)">
-      <rect
-         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect915"
-         width="70.368469"
-         height="29.196863"
-         x="64.292763"
-         y="113.37965"
-         ry="2.1323066" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="87.026085"
-         y="126.87324"
-         id="text4746"><tspan
-           sodipodi:role="line"
-           id="tspan4744"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="87.026085"
-           y="126.87324">Conceptos</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="87.026085"
-           y="132.1649"
-           id="tspan141418">Básicos</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-98.303731,-3.2730868)"
-       id="text144840"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect144842);" />
-    <rect
-       style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect39016"
-       width="70.893074"
-       height="10.038904"
-       x="-56.863346"
-       y="61.892521"
-       ry="0.73316175" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-27.715128"
-       y="68.490173"
-       id="text39020"><tspan
-         sodipodi:role="line"
-         id="tspan39018"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="-27.715128"
-         y="68.490173">Nodo</tspan></text>
-    <circle
-       style="fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle44663"
-       cx="-85.626587"
-       cy="45.358723"
-       r="4.2392211" />
+     transform="translate(-232.41784,181.28346)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -88.081727,45.202057 1.815108,1.67399 3.062032,-3.41182"
-       id="path44665"
-       sodipodi:nodetypes="ccc" />
-    <circle
-       style="fill:#9900ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle44667"
-       cx="-85.626587"
-       cy="34.887379"
-       r="4.2392211" />
+       style="fill:none;stroke:#ff6363;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 384.61886,-85.017572 c -1.96835,3.592488 -2.97359,7.706914 -2.88354,11.802309 0.09,4.095396 1.27514,8.161663 3.39949,11.664166 1.34985,2.22555 3.05775,4.208574 4.5939,6.309857 3.25967,4.458867 5.78869,9.599067 6.35203,15.093575 0.28167,2.747254 0.0623,5.557488 -0.76442,8.192489 -0.82675,2.635001 -2.27041,5.089956 -4.26045,7.004761 -2.69027,2.588565 -6.22662,4.087306 -9.25942,6.264545 -4.93597,3.54352 -8.51004,9.046371 -9.373,15.0609913 -0.43147,3.00731016 -0.1949,6.1140657 0.73433,9.0065747 0.92924,2.892509 2.55393,5.565038 4.72881,7.686352 2.94853,2.875912 6.76458,4.648964 10.29864,6.764425 6.25359,3.743355 11.87295,8.812689 15.29069,15.250015 1.70887,3.218663 2.84736,6.754346 3.19517,10.381887 0.34781,3.627541 -0.10602,7.345811 -1.4491,10.733457 -0.7597,1.916171 -1.7933,3.711648 -2.8911,5.456264 -3.20388,5.091583 -6.98039,9.807345 -10.12629,14.934949 -3.14591,5.127604 -5.68564,10.8041 -6.05103,16.808727 -0.11849,1.947128 -0.006,3.908216 0.33471,5.828983"
+       id="path228034"
+       inkscape:path-effect="#path-effect228036"
+       inkscape:original-d="m 384.61886,-85.017572 c 0.17224,7.822424 0.34423,15.644582 0.51595,23.466475 0.17172,7.821892 3.06287,4.206835 4.5939,6.309857 1.53104,2.103022 0.88504,20.194148 1.32716,30.290825 0.44213,10.096675 -6.17268,4.176628 -9.25942,6.264545 -3.08674,2.08792 -2.60631,21.1695424 -3.90986,31.753918 -1.30356,10.584373 6.86603,4.509881 10.29864,6.764425 3.43262,2.254543 11.35811,24.243836 17.03676,36.365359 5.67866,12.12152 -1.92713,3.637775 -2.8911,5.456264 -0.96397,1.818492 -10.78462,21.162722 -16.17732,31.743676 -5.39271,10.580978 0.2234,3.886253 0.33471,5.828983" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -88.081727,34.730707 1.815108,1.67399 3.062032,-3.41182"
-       id="path44669"
-       sodipodi:nodetypes="ccc" />
+       style="fill:none;stroke:#ff6363;stroke-width:1.00000003;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.00000003, 2.00000006;stroke-dashoffset:0"
+       d="m 306.47722,289.32355 46.55961,0.85672"
+       id="path227427"
+       inkscape:path-effect="#path-effect227429"
+       inkscape:original-d="m 306.47722,289.32355 c 15.52014,0.28583 31.04001,0.5714 46.55961,0.85672" />
     <path
-       style="fill:none;stroke:#2b78e4;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -99.083594,24.059847 c 11.97781,4.3298 23.241648,3.02638 31.515608,1.30152"
-       id="path44916"
-       sodipodi:nodetypes="cc" />
+       style="fill:none;stroke:#ff6363;stroke-width:0.903581;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.903581, 1.80716;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 306.47722,289.32356 c 11.05255,-9.71933 25.52606,-15.46778 40.23529,-15.98028 1.37974,-0.0481 2.76103,-0.0517 4.141,-0.0109 l 3.33462,0.0645"
+       id="path225894"
+       sodipodi:nodetypes="cscc"
+       inkscape:original-d="m 306.47722,289.32356 c 13.41199,-5.3265 25.80569,-15.79768 40.23529,-15.98028 13.69627,-0.17332 3.80053,-0.0217 4.141,-0.0109 0.62252,0.12467 3.33462,0.0645 3.33462,0.0645"
+       inkscape:path-effect="#path-effect225896" />
     <path
-       style="fill:none;stroke:#2b78e4;stroke-width:0.843346;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.843346, 1.68669;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       d="m -99.447827,17.718097 c 11.749485,4.90522 22.798606,3.42858 30.914844,1.47449"
-       id="path45303"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="100.92898"
-       y="60.948101"
-       id="text46092"><tspan
-         sodipodi:role="line"
-         id="tspan46090"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="100.92898"
-         y="60.948101">Telecomunicaciones</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="100.92898"
-         y="71.531441"
-         id="tspan48826">Celulares</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="97.190971"
-       y="23.670254"
-       id="text60244"><tspan
-         sodipodi:role="line"
-         id="tspan60242"
-         style="stroke-width:0.264583"
-         x="97.190971"
-         y="23.670254" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-       x="75.260941"
-       y="23.695354"
-       id="text68216"><tspan
-         sodipodi:role="line"
-         id="tspan68214"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="75.260941"
-         y="23.695354">Fundamentos </tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="75.260941"
-         y="28.987017"
-         id="tspan68218">de las Comunicaciones</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="42.409718"
-       y="129.76828"
-       id="text106332"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         id="tspan106334"
-         x="42.409718"
-         y="129.76828" /></text>
+       style="fill:none;stroke:#ff6363;stroke-width:0.903581;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.903581, 1.80716;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 306.47722,289.32356 c 11.05255,9.71933 25.52606,15.46778 40.23529,15.98028 1.37974,0.0481 2.76103,0.0517 4.141,0.0109 l 3.33462,-0.0645"
+       id="path226856"
+       inkscape:path-effect="#path-effect226860"
+       inkscape:original-d="m 306.47722,289.32356 c 13.41199,5.3265 25.80569,15.79768 40.23529,15.98028 13.69627,0.17332 3.80053,0.0217 4.141,0.0109 0.62252,-0.12467 3.33462,-0.0645 3.33462,-0.0645"
+       sodipodi:nodetypes="cscc" />
     <g
-       id="g158152"
-       transform="translate(-111.33352,-110.8701)">
-      <rect
-         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect158140"
-         width="70.368469"
-         height="29.196863"
-         x="53.843102"
-         y="123.13121"
-         ry="2.1323066" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="76.576424"
-         y="136.6248"
-         id="text158146"><tspan
-           sodipodi:role="line"
-           id="tspan158142"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="76.576424"
-           y="136.6248">Conceptos</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="76.576424"
-           y="141.91646"
-           id="tspan158144">Básicos</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-108.75339,6.4784809)"
-         id="text158150"
-         style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect158154);" />
-    </g>
-    <g
-       id="g187498"
-       transform="translate(-0.20114458,-22.187851)">
-      <rect
-         style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect158156"
-         width="70.368469"
-         height="29.196863"
-         x="65.994598"
-         y="159.1913"
-         ry="2.1323066" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="83.059021"
-         y="172.72209"
-         id="text158162"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="83.059021"
-           y="172.72209"
-           id="tspan158160">Infraestructura</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="83.059021"
-           y="178.01375"
-           id="tspan159258">de Red Típica</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-96.60189,42.538577)"
-       id="text158166"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect158170);" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,3.8754337)"
-       id="text161540"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect161542);" />
-    <g
-       id="g187492"
-       transform="translate(-113.66246,-99.189912)">
-      <g
-         id="g177290"
-         transform="translate(9.2270156,80.195555)">
-        <rect
-           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect177278"
-           width="70.368469"
-           height="29.196863"
-           x="53.843102"
-           y="123.13121"
-           ry="2.1323066" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="72.797852"
-           y="139.30785"
-           id="text177284"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-             x="72.797852"
-             y="139.30785"
-             id="tspan177282">Generaciones</tspan></text>
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,-108.75339,6.4784809)"
-           id="text177288"
-           style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect177292);" />
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,-9.663615)"
-       id="text197880"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect197882);" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,-9.663615)"
-       id="text202164"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect202166);" />
-    <g
-       id="g169">
+       id="bts"
+       transform="translate(471.84768,-220.7055)">
       <title
-         id="title171">Perturbación de los campos B y E que puede transmitirse sin necesidad de un medio material</title>
+         id="title86035">Base Transceiver Station: Es el elemento que se conecta a las antenas de telefonía móvil, De la BTS salen los cables que emiten y reciben las señales y que se conectan a las antenas situadas en lo alto de la torre.</title>
       <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect222272"
-         width="70.893074"
-         height="10.038904"
-         x="238.30997"
-         y="10.451025"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="245.94737"
-         y="16.706575"
-         id="text222276"><tspan
-           sodipodi:role="line"
-           id="tspan222274"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="245.94737"
-           y="16.706575">Onda Electromagnética</tspan></text>
-    </g>
-    <g
-       id="g238222"
-       transform="translate(0.81712928,0.41135348)">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect222280"
-         width="70.893074"
-         height="10.038904"
-         x="238.0004"
-         y="28.203367"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="256.00513"
-         y="34.801018"
-         id="text222284"><tspan
-           sodipodi:role="line"
-           id="tspan222282"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="256.00513"
-           y="34.801018">Onda de Radio</tspan></text>
-    </g>
-    <g
-       id="g238243">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect222288"
-         width="70.893074"
-         height="10.038904"
-         x="238.21236"
-         y="46.489773"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="256.75864"
-         y="53.172173"
-         id="text222292"><tspan
-           sodipodi:role="line"
-           id="tspan222290"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="256.75864"
-           y="53.172173">Celda o Célula</tspan></text>
-    </g>
-    <g
-       id="g276697">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect222296"
-         width="70.893074"
-         height="10.038904"
-         x="238.06454"
-         y="64.34391"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="264.87491"
-         y="70.941559"
-         id="text222300"><tspan
-           sodipodi:role="line"
-           id="tspan222298"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="264.87491"
-           y="70.941559">Cluster</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,-9.663615)"
-       id="text229906"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect229908);" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
-       id="text237533"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect237535);" />
-    <g
-       id="g276692">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect238245"
-         width="70.893074"
-         height="10.038904"
-         x="238.16913"
-         y="82.982193"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="240.89832"
-         y="89.664589"
-         id="text238249"><tspan
-           sodipodi:role="line"
-           id="tspan238247"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="240.89832"
-           y="89.664589">Reutilización de Frecuencia</tspan></text>
-    </g>
-    <g
-       id="g276687">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect238251"
-         width="70.893074"
-         height="10.038904"
-         x="238.5024"
-         y="102.33812"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="264.21826"
-         y="108.93577"
-         id="text238255"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="264.21826"
-           y="108.93577"
-           id="tspan272148">Handoff</tspan></text>
-    </g>
-    <g
-       id="g265842"
-       transform="translate(-0.16175326,0.50756825)">
-      <circle
-         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path43676"
-         cx="-85.536865"
-         cy="55.289753"
-         r="4.2392211" />
-      <text
-         xml:space="preserve"
-         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-         x="-87.792023"
-         y="58.431683"
-         id="text260065"><tspan
-           sodipodi:role="line"
-           id="tspan260063"
-           style="font-size:8.46667px;stroke-width:0.264583"
-           x="-87.792023"
-           y="58.431683">?</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
-       id="text275278"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect275280);" />
-    <g
-       id="g298342">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect276805"
-         width="70.893074"
-         height="10.038904"
-         x="239.21843"
-         y="123.56326"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="244.33713"
-         y="130.24567"
-         id="text276809"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="244.33713"
-           y="130.24567"
-           id="tspan276807">Distancia de reutilización</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
-       id="text289515"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect289517);" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
-       id="text296693"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect296695);" />
-    <g
-       id="g201"
-       transform="translate(-18.82346,2.5098516)">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect298344"
          width="70.893074"
          height="10.038904"
@@ -672,76 +274,13 @@
            y="198.60419"
            id="tspan298346">BTS</tspan></text>
     </g>
-    <rect
-       style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect298355"
-       width="70.893074"
-       height="10.038904"
-       x="238.77919"
-       y="160.88765"
-       ry="0.73316175" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="258.6608"
-       y="167.48531"
-       id="text298359"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="258.6608"
-         y="167.48531"
-         id="tspan298357">Interferencia</tspan></text>
-    <rect
-       style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect298361"
-       width="70.893074"
-       height="10.038904"
-       x="238.27301"
-       y="179.96887"
-       ry="0.73316175" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="257.68127"
-       y="186.65128"
-       id="text298365"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="257.68127"
-         y="186.65128"
-         id="tspan298363">Sectorización</tspan></text>
     <g
-       id="g318532">
+       id="bsc"
+       transform="translate(471.90881,-211.1571)">
+      <title
+         id="title86337">Base Station Controller: El elemento BSC controla un determinado número de BTSs de un area. Todas las BTSs de dicho area se conectan a la BSC y, a través de ella, pasa todo el flujo de comunicaciones.</title>
       <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect305882"
-         width="70.893074"
-         height="10.038904"
-         x="238.58704"
-         y="-8.5975637"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="248.20158"
-         y="-1.9151654"
-         id="text305886"><tspan
-           sodipodi:role="line"
-           id="tspan305884"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="248.20158"
-           y="-1.9151654">Telefonía Celular</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
-       id="text316991"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect316993);" />
-    <g
-       id="g186"
-       transform="translate(-18.762325,3.523751)">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect318669"
          width="70.893074"
          height="10.038904"
@@ -761,10 +300,405 @@
            id="tspan318671">BSC</tspan></text>
     </g>
     <g
-       id="g191"
-       transform="translate(-18.25552,3.7833443)">
+       id="picoCell"
+       transform="translate(30.264767,160.59494)">
+      <title
+         id="title26331">Poseen un radio celular de 4m hasta 200m </title>
       <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect15791"
+         width="70.893074"
+         height="10.038904"
+         x="319.8277"
+         y="108.0581"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="342.86569"
+         y="114.65575"
+         id="text15795"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="342.86569"
+           y="114.65575"
+           id="tspan15793">Pico Celda</tspan></text>
+    </g>
+    <g
+       id="g186224">
+      <rect
+         style="fill:#125b50;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect915"
+         width="70.368469"
+         height="29.196863"
+         x="240.00101"
+         y="-109.30074"
+         ry="2.1323066" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#faf5e4;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="272.74921"
+         y="-95.807152"
+         id="text4746"><tspan
+           sodipodi:role="line"
+           id="tspan4744"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#faf5e4;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="272.74921"
+           y="-95.807152">Conceptos</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#faf5e4;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="272.74921"
+           y="-90.515488"
+           id="tspan141418">Básicos</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-98.303731,-3.2730868)"
+       id="text144840"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect144842)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="432.65057"
+       y="-166.27383"
+       id="text46092"><tspan
+         sodipodi:role="line"
+         id="tspan46090"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="432.65057"
+         y="-166.27383">Telecomunicaciones</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="432.65057"
+         y="-141.57933"
+         id="tspan48826">Celulares</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="97.190971"
+       y="23.670254"
+       id="text60244"><tspan
+         sodipodi:role="line"
+         id="tspan60242"
+         style="stroke-width:0.264583"
+         x="97.190971"
+         y="23.670254" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="42.409718"
+       y="129.76828"
+       id="text106332"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         id="tspan106334"
+         x="42.409718"
+         y="129.76828" /></text>
+    <rect
+       style="fill:#125b50;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect158156"
+       width="70.368469"
+       height="29.196863"
+       x="560.40039"
+       y="-109.30074"
+       ry="2.1323066" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#faf5e4;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="595.39447"
+       y="-96.18026"
+       id="text158162"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#faf5e4;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="595.39447"
+         y="-96.18026"
+         id="tspan158160">Infraestructura</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#faf5e4;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="595.39447"
+         y="-90.888596"
+         id="tspan159258">de Red Típica</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-96.60189,42.538577)"
+       id="text158166"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect158170)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,3.8754337)"
+       id="text161540"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect161542)" />
+    <g
+       id="g186229">
+      <rect
+         style="fill:#125b50;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect177278"
+         width="70.368469"
+         height="29.196863"
+         x="350.35477"
+         y="-109.30074"
+         ry="2.1323066" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#faf5e4;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="385.32816"
+         y="-93.124107"
+         id="text177284"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#faf5e4;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="385.32816"
+           y="-93.124107"
+           id="tspan177282">Generaciones</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,187.75828,-225.95347)"
+       id="text177288"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect177292)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,-9.663615)"
+       id="text197880"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect197882)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,-9.663615)"
+       id="text202164"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect202166)" />
+    <g
+       id="g186745">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect222272"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="-13.650994"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="245.15092"
+         y="-7.3954434"
+         id="text222276"><tspan
+           sodipodi:role="line"
+           id="tspan222274"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="245.15092"
+           y="-7.3954434">Onda Electromagnética</tspan></text>
+    </g>
+    <rect
+       style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect222280"
+       width="70.893074"
+       height="10.038904"
+       x="237.51352"
+       y="11.147906"
+       ry="0.73316175" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="255.51825"
+       y="17.745556"
+       id="text222284"><tspan
+         sodipodi:role="line"
+         id="tspan222282"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="255.51825"
+         y="17.745556">Onda de Radio</tspan></text>
+    <g
+       id="g187070">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect222288"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="135.14241"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="256.05978"
+         y="141.82481"
+         id="text222292"><tspan
+           sodipodi:role="line"
+           id="tspan222290"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="256.05978"
+           y="141.82481">Celda o Célula</tspan></text>
+    </g>
+    <g
+       id="g187047">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect222296"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="159.9413"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="264.32388"
+         y="166.53896"
+         id="text222300"><tspan
+           sodipodi:role="line"
+           id="tspan222298"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="264.32388"
+           y="166.53896">Cluster</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,-9.663615)"
+       id="text229906"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect229908)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
+       id="text237533"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect237535)" />
+    <g
+       id="g187024">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect238245"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="184.74022"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="240.24271"
+         y="191.42261"
+         id="text238249"><tspan
+           sodipodi:role="line"
+           id="tspan238247"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="240.24271"
+           y="191.42261">Reutilización de Frecuencia</tspan></text>
+    </g>
+    <g
+       id="g186845">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect238251"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="476.05597"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="263.22937"
+         y="482.65359"
+         id="text238255"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="263.22937"
+           y="482.65359"
+           id="tspan272148">Roaming</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
+       id="text275278"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect275280)" />
+    <g
+       id="g187001">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect276805"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="209.53912"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="242.63222"
+         y="216.22153"
+         id="text276809"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="242.63222"
+           y="216.22153"
+           id="tspan276807">Distancia de reutilización</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
+       id="text289515"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect289517)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
+       id="text296693"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect296695)" />
+    <rect
+       style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect298355"
+       width="70.893074"
+       height="10.038904"
+       x="237.51352"
+       y="419.75119"
+       ry="0.73316175" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="272.97348"
+       y="423.703"
+       id="text298359"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="272.97348"
+         y="423.703"
+         id="tspan298357">Sistemas de asignacion</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="272.97348"
+         y="428.99466"
+         id="tspan28267">de canales</tspan></text>
+    <g
+       id="g186680">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect305882"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="-63.248791"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="253.0047"
+         y="-56.566391"
+         id="text305886"><tspan
+           sodipodi:role="line"
+           id="tspan305884"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="253.0047"
+           y="-56.566391">Telefonía Celular</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
+       id="text316991"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect316993)" />
+    <g
+       id="msc"
+       transform="translate(472.41562,-202.36301)">
+      <title
+         id="title86339">Mobile Switching Center: Son las centrales de comunicación que establecen las llamadas de voz en las redes móviles. A este elemento se conectan las BSC</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect318675"
          width="70.893074"
          height="10.038904"
@@ -787,182 +721,144 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text340783"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect340785);" />
-    <g
-       id="g196"
-       transform="translate(-18.859951,4.4077571)">
-      <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect342243"
-         width="70.893074"
-         height="10.038904"
-         x="88.327248"
-         y="239.31215"
-         ry="0.73316175" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="95.485085"
-         y="245.49948"
-         id="text342247"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="95.485085"
-           y="245.49948"
-           id="tspan342245">Internet</tspan></text>
-    </g>
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect340785)" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text362245"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect362247);" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect362247)" />
     <g
-       id="g393637"
-       transform="translate(0,-2.4882121)">
+       id="g187713">
       <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect363924"
          width="70.893074"
          height="10.038904"
-         x="-134.14815"
-         y="110.81702"
+         x="350.09247"
+         y="-27.116804"
          ry="0.73316175" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="-117.38573"
-         y="117.49941"
+         x="366.85489"
+         y="-20.434408"
          id="text363928"><tspan
            sodipodi:role="line"
            id="tspan363926"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="-117.38573"
-           y="117.49941">2da Generación</tspan></text>
-    </g>
-    <g
-       id="g219">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect363948"
-         width="70.368469"
-         height="29.196863"
-         x="-216.63133"
-         y="72.265495"
-         ry="2.1323066" />
+           x="366.85489"
+           y="-20.434408">2da Generación</tspan></text>
     </g>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-395.90089,52.41383)"
        id="text363956"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect363962);" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect363962)" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text368601"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect368603);" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect368603)" />
     <g
-       id="g393652"
-       transform="translate(0,-4.7700577)">
+       id="g187708">
       <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect376169"
          width="70.893074"
          height="10.038904"
-         x="-134.14815"
-         y="129.2317"
+         x="350.09247"
+         y="11.502645"
          ry="0.73316175" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="-117.38573"
-         y="135.91411"
+         x="366.85489"
+         y="18.185049"
          id="text376173"><tspan
            sodipodi:role="line"
            id="tspan376171"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="-117.38573"
-           y="135.91411">3ra Generación</tspan></text>
+           x="366.85489"
+           y="18.185049">3ra Generación</tspan></text>
     </g>
     <g
-       id="g393647"
-       transform="translate(0,1.3238695)">
+       id="g187703">
       <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect376175"
          width="70.893074"
          height="10.038904"
-         x="-134.14815"
-         y="139.27061"
+         x="350.09247"
+         y="53.194466"
          ry="0.73316175" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="-117.38573"
-         y="145.95302"
+         x="366.85489"
+         y="59.876869"
          id="text376179"><tspan
            sodipodi:role="line"
            id="tspan376177"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="-117.38573"
-           y="145.95302">4ta Generación</tspan></text>
+           x="366.85489"
+           y="59.876869">4ta Generación</tspan></text>
     </g>
     <g
-       id="g393642">
+       id="g187698">
       <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect376181"
          width="70.893074"
          height="10.038904"
-         x="-134.14815"
-         y="156.72734"
+         x="350.09247"
+         y="91.280716"
          ry="0.73316175" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="-117.38573"
-         y="163.40974"
+         x="366.85489"
+         y="97.96312"
          id="text376185"><tspan
            sodipodi:role="line"
            id="tspan376183"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="-117.38573"
-           y="163.40974">5ta Generación</tspan></text>
+           x="366.85489"
+           y="97.96312">5ta Generación</tspan></text>
     </g>
     <g
-       id="g393632"
-       onmouseover="document.getElementById(&quot;g219&quot;).style.visibility=&quot;hidden&quot;;"
-       onclick=""
-       onmouseout="document.getElementById(&quot;g219&quot;).style.visibility=&quot;visible&quot;;">
+       id="g187718">
       <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect376083"
          width="70.893074"
          height="10.038904"
-         x="-134.14815"
-         y="92.195953"
+         x="350.09247"
+         y="-63.248798"
          ry="0.73316175" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="-117.38573"
-         y="98.878349"
+         x="366.85489"
+         y="-56.566402"
          id="text376087"><tspan
            sodipodi:role="line"
            id="tspan376085"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-           x="-117.38573"
-           y="98.878349">1ra Generación</tspan></text>
+           x="366.85489"
+           y="-56.566402">1ra Generación</tspan></text>
     </g>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-99.8695,10.17881)"
        id="text389475"
-       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect389477);" />
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect389477)" />
     <g
-       id="g206"
-       transform="translate(-2.4841575)">
+       id="endDevices"
+       transform="translate(488.18698,-231.74985)">
+      <title
+         id="title86033">Equipos capaces de utilizar la red celular (Telefonos, equipos, IoT, automoviles)</title>
       <rect
-         style="fill:#ffe599;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect177"
          width="70.893074"
          height="10.038904"
@@ -982,14 +878,501 @@
            id="tspan179">Dispositivos Terminales</tspan></text>
     </g>
     <g
-       id="g214"
-       transform="translate(-48.364014,36.63277)"
-       onclick="window.open(&quot;https://google.com&quot;)">
+       id="g186750">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect998"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="-38.449894"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="266.77127"
+         y="-31.852245"
+         id="text1002"><tspan
+           sodipodi:role="line"
+           id="tspan1000"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="266.77127"
+           y="-31.852245">Onda</tspan></text>
+    </g>
+    <g
+       id="g187163">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2720"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="35.946808"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="273.55121"
+         y="39.983376"
+         id="text2724"><tspan
+           sodipodi:role="line"
+           id="tspan2722"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="273.55121"
+           y="39.983376">¿Cómo se transmite </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="273.55121"
+           y="45.27504"
+           id="tspan4709">la información?</tspan></text>
+    </g>
+    <g
+       id="g187116">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9265"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="85.544609"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="259.03534"
+         y="92.142258"
+         id="text9269"><tspan
+           sodipodi:role="line"
+           id="tspan9267"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="259.03534"
+           y="92.142258">Red Celular</tspan></text>
+    </g>
+    <g
+       id="g187093">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10173"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="110.34351"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="256.1239"
+         y="116.94116"
+         id="text10177"><tspan
+           sodipodi:role="line"
+           id="tspan10175"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="256.1239"
+           y="116.94116">Forma Celular</tspan></text>
+    </g>
+    <g
+       id="g186909">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12075"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="356.13092"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="263.22937"
+         y="362.72858"
+         id="text12079"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="263.22937"
+           y="362.72858"
+           id="tspan12077">Handoff</tspan></text>
+    </g>
+    <g
+       id="g186978">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12305"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="234.33803"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="256.92178"
+         y="241.02043"
+         id="text12309"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="256.92178"
+           y="241.02043"
+           id="tspan12307">Sectorización</tspan></text>
+    </g>
+    <g
+       id="g186932">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect15079"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="284.55814"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="254.12918"
+         y="291.15576"
+         id="text15083"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="254.12918"
+           y="291.15576"
+           id="tspan15081">Alcance celular</tspan></text>
+    </g>
+    <g
+       id="microCell"
+       transform="translate(30.433498,156.49119)">
       <title
-         id="title216">Mas información</title>
+         id="title26335">Poseen un radio celular de 100m hasta 1km</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect15799"
+         width="70.893074"
+         height="10.038904"
+         x="319.65897"
+         y="128.05315"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="341.09811"
+         y="134.6508"
+         id="text15803"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="341.09811"
+           y="134.6508"
+           id="tspan15801">Micro Celda</tspan></text>
+    </g>
+    <g
+       id="macroCell"
+       transform="translate(29.907803,153.79158)">
+      <title
+         id="title26333">Poseen un radio celular de 2km hasta 20km</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect15807"
+         width="70.893074"
+         height="10.038904"
+         x="320.18466"
+         y="146.64403"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="340.92099"
+         y="153.24168"
+         id="text15811"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="340.92099"
+           y="153.24168"
+           id="tspan15809">Macro Celda</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-217.09384,-19.276053)"
+       id="text40719"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect40721);fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="fca"
+       transform="translate(41.030239,258.4201)">
+      <title
+         id="title46184">Fixed Channel Allocation:
+ a cada célula se le asigna un conjunto predeterminado de canales. Cualquier llamada producida dentro de la célula, sólo puede ser servida por los canales inutilizados dentro de esa célula en particular.</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect42337"
+         width="70.893074"
+         height="10.038904"
+         x="309.06223"
+         y="153.25455"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="339.68735"
+         y="159.81499"
+         id="text42341"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="339.68735"
+           y="159.81499"
+           id="tspan42339">FCA</tspan></text>
+    </g>
+    <g
+       id="dca"
+       transform="translate(41.030239,264.27242)">
+      <title
+         id="title46177">Dynamic Channel Assignment:
+Los canales no se colocan en diferentes células permanentemente. En su lugar, cada vez que se produce un requerimiento de llamada la radio base servidora pide un canal al MSC.</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect44850"
+         width="70.893074"
+         height="10.038904"
+         x="309.06223"
+         y="163.29346"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="339.68735"
+         y="169.8539"
+         id="text44854"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="339.68735"
+           y="169.8539"
+           id="tspan44852">DCA</tspan></text>
+    </g>
+    <g
+       id="hardHandoff"
+       transform="translate(41.030239,163.07235)">
+      <title
+         id="title46918">Cuando la conexión entre el móvil y su servidor inicial (radio base) permanece momentáneamente antes de reconectar al móvil con una nueva radio base.</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect46920"
+         width="70.893074"
+         height="10.038904"
+         x="309.06223"
+         y="153.25455"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="339.68735"
+         y="159.81499"
+         id="text46924"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="339.68735"
+           y="159.81499"
+           id="tspan46922">Hard</tspan></text>
+    </g>
+    <g
+       id="softHandoff"
+       transform="translate(41.030239,168.92472)">
+      <title
+         id="title46928">En el cual dos radio bases están simultáneamente conectadas por un periodo corto de tiempo con el móvil durante el handoff. Tan pronto como el enlace de RF del móvil con la nueva radio base sea aceptable, la radio base inicial se desprende del móvil.</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect46930"
+         width="70.893074"
+         height="10.038904"
+         x="309.06223"
+         y="163.29346"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="339.68735"
+         y="169.8539"
+         id="text46934"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="339.68735"
+           y="169.8539"
+           id="tspan46932">Soft</tspan></text>
+    </g>
+    <g
+       id="bcho"
+       transform="translate(41.030239,184.816)">
+      <title
+         id="title71267">base-controlled handoff</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect48738"
+         width="70.893074"
+         height="10.038904"
+         x="309.06223"
+         y="163.29347"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="337.68335"
+         y="169.85391"
+         id="text48742"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="337.68335"
+           y="169.85391"
+           id="tspan48740">BCHO</tspan></text>
+    </g>
+    <g
+       id="mcho"
+       transform="translate(41.030239,190.66832)">
+      <title
+         id="title71265">mobil-controlled handoff</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect48748"
+         width="70.893074"
+         height="10.038904"
+         x="309.06223"
+         y="173.33238"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="337.19034"
+         y="179.89282"
+         id="text48752"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="337.19034"
+           y="179.89282"
+           id="tspan48750">MCHO</tspan></text>
+    </g>
+    <g
+       id="cdpd"
+       transform="translate(41.030239,196.52069)">
+      <title
+         id="title71269">Cellular Digital Packet Data</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect48758"
+         width="70.893074"
+         height="10.038904"
+         x="309.06223"
+         y="183.37129"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="337.89523"
+         y="189.93173"
+         id="text48762"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="337.89523"
+           y="189.93173"
+           id="tspan48760">CDPD</tspan></text>
+    </g>
+    <g
+       id="maho"
+       transform="translate(41.030239,202.37315)">
+      <title
+         id="title71271">Mobile Assisted Handoff</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect48768"
+         width="70.893074"
+         height="10.038904"
+         x="309.06223"
+         y="193.4102"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="337.10559"
+         y="199.97064"
+         id="text48772"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="337.10559"
+           y="199.97064"
+           id="tspan48770">MAHO</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-217.09384,-19.276053)"
+       id="text65108"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect65110);fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="g186868">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect73443"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="451.4028"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="257.39511"
+         y="458.00046"
+         id="text73447"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="257.39511"
+           y="458.00046"
+           id="tspan73445">Interferencia</tspan></text>
+    </g>
+    <g
+       id="g186955">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect77348"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="259.1369"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="263.03094"
+         y="265.30771"
+         id="text77352"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="263.03094"
+           y="265.30771"
+           id="tspan77350">splitting</tspan></text>
+    </g>
+    <g
+       id="g187139">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect85020"
+         width="70.893074"
+         height="10.038904"
+         x="237.51352"
+         y="60.745716"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="247.82466"
+         y="67.428116"
+         id="text85024"><tspan
+           sodipodi:role="line"
+           id="tspan85022"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="247.82466"
+           y="67.428116">Canal de transmisión</tspan></text>
+    </g>
+    <g
+       id="cellularInfraestructure"
+       transform="translate(646.39718,-163.76329)"
+       onclick="window.open(&quot;https://www.temastecnologicos.com/redes-moviles/elementos/&quot;)">
+      <title
+         id="title86519">Mas información</title>
       <circle
          style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle208"
+         id="circle86521"
          cx="-85.536865"
          cy="55.289753"
          r="4.2392211" />
@@ -998,9 +1381,1006 @@
          style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
          x="-87.792023"
          y="58.431683"
-         id="text212"><tspan
+         id="text86525"><tspan
            sodipodi:role="line"
-           id="tspan210"
+           id="tspan86523"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="firstDesc"
+       transform="translate(667.92825,-145.09327)"
+       onload="">
+      <rect
+         style="fill:#faf5e4;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect363948"
+         width="70.368469"
+         height="29.196863"
+         x="-216.63133"
+         y="72.265495"
+         ry="2.1323066" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-215.1405"
+         y="77.806831"
+         id="text88512"><tspan
+           sodipodi:role="line"
+           id="tspan88510"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-215.1405"
+           y="77.806831">Transmisión analógica</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-215.1405"
+           y="84.862381"
+           id="tspan88514">Baja calidad de voz</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-215.1405"
+           y="91.917931"
+           id="tspan88516">Baja seguridad</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-215.1405"
+           y="98.97348"
+           id="tspan88518">FDMA </tspan></text>
+    </g>
+    <g
+       id="secondDesc"
+       transform="translate(667.92825,-108.9611)"
+       onload="">
+      <rect
+         style="fill:#faf5e4;fill-opacity:1;stroke:#000000;stroke-width:0.925025;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect114658"
+         width="70.368469"
+         height="29.196863"
+         x="-216.63133"
+         y="72.265495"
+         ry="2.1323066" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-215.1405"
+         y="77.806831"
+         id="text114668"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-215.1405"
+           y="77.806831"
+           id="tspan114666">SMS</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-215.1405"
+           y="84.862381"
+           id="tspan115303">Navegación a 50kbps</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-215.1405"
+           y="91.917931"
+           id="tspan115305">TDMA</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-215.1405"
+           y="98.97348"
+           id="tspan115307">CDMA</tspan></text>
+    </g>
+    <g
+       id="thirdDesc"
+       transform="translate(667.48066,-107.03509)"
+       onload="">
+      <rect
+         style="fill:#faf5e4;fill-opacity:1;stroke:#000000;stroke-width:1.03206;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect117491"
+         width="70.261429"
+         height="36.400051"
+         x="-216.07671"
+         y="105.35722"
+         ry="2.65837" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-214.63939"
+         y="110.84503"
+         id="text117501"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="110.84503"
+           id="tspan117499">Navegación a 2Mbps</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="117.90058"
+           id="tspan118238">WCDMA</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="124.95613"
+           id="tspan118240">Uso de GPS</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="132.01169"
+           id="tspan122574">videos</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="139.06723"
+           id="tspan122576">llamadas por datos, etc.</tspan></text>
+    </g>
+    <g
+       id="fourthDesc"
+       transform="translate(667.48066,-65.343331)"
+       onload="">
+      <rect
+         style="fill:#faf5e4;fill-opacity:1;stroke:#000000;stroke-width:1.03206;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect131680"
+         width="70.261429"
+         height="36.400051"
+         x="-216.07671"
+         y="105.35722"
+         ry="2.65837" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-214.63939"
+         y="110.84503"
+         id="text131692"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="110.84503"
+           id="tspan131690">Navegación de </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="117.90058"
+           id="tspan135698">20Mbps a 100Mbps</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="124.95613"
+           id="tspan133988">Peliculas y television HD</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="132.01169"
+           id="tspan133990">OFDMA</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.63939"
+           y="139.06723"
+           id="tspan133992">MIMO</tspan></text>
+    </g>
+    <g
+       id="fifthDesc"
+       transform="translate(666.87244,-52.741358)"
+       onload="">
+      <rect
+         style="fill:#faf5e4;fill-opacity:1;stroke:#000000;stroke-width:0.924901;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect140352"
+         width="70.368591"
+         height="29.189096"
+         x="-215.57565"
+         y="134.44698"
+         ry="2.1317394" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-214.08476"
+         y="139.98836"
+         id="text140364"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.08476"
+           y="139.98836"
+           id="tspan140362">Navegación 10Gbps</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.08476"
+           y="147.04391"
+           id="tspan141310">ondas milimetricas</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.08476"
+           y="154.09946"
+           id="tspan141312">tecnología mimo </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="-214.08476"
+           y="161.15501"
+           id="tspan147992">mejorada</tspan></text>
+    </g>
+    <g
+       id="g150784"
+       transform="translate(436.35124,-163.76329)"
+       onclick="window.open(&quot;https://ijcsit.com/docs/Volume%206/vol6issue03/ijcsit20150603123.pdf&quot;)">
+      <title
+         id="title150776">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle150778"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text150782"><tspan
+           sodipodi:role="line"
+           id="tspan150780"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g152287"
+       transform="translate(322.69393,-93.887036)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Onda&quot;)">
+      <title
+         id="title152279">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle152281"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text152285"><tspan
+           sodipodi:role="line"
+           id="tspan152283"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g152645"
+       transform="translate(322.69393,-68.947355)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Radiaci%C3%B3n_electromagn%C3%A9tica&quot;)">
+      <title
+         id="title152637">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle152639"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text152643"><tspan
+           sodipodi:role="line"
+           id="tspan152641"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g152655"
+       transform="translate(646.39718,-108.23248)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Dispositivo_móvil&quot;)">
+      <title
+         id="title152647">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle152649"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text152653"><tspan
+           sodipodi:role="line"
+           id="tspan152651"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g157343"
+       transform="translate(322.69393,-43.747314)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Radiofrecuencia&quot;)">
+      <title
+         id="title157335">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle157337"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text157341"><tspan
+           sodipodi:role="line"
+           id="tspan157339"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g157353"
+       transform="translate(322.69393,-19.761921)"
+       onclick="window.open(&quot;https://www.youtube.com/watch?v=h2oFquv96O8&quot;)">
+      <title
+         id="title157345">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle157347"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text157351"><tspan
+           sodipodi:role="line"
+           id="tspan157349"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g157363"
+       transform="translate(322.69393,5.6053413)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Canal_de_comunicaci%C3%B3n&quot;)">
+      <title
+         id="title157355">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle157357"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text157361"><tspan
+           sodipodi:role="line"
+           id="tspan157359"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g157373"
+       transform="translate(322.69393,29.833364)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Red_de_celdas&quot;)">
+      <title
+         id="title157365">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle157367"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text157371"><tspan
+           sodipodi:role="line"
+           id="tspan157369"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g157383"
+       transform="translate(322.88001,128.65302)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Red_de_celdas#%C3%81rea_de_cobertura_de_una_celda&quot;)">
+      <title
+         id="title157375">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle157377"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text157381"><tspan
+           sodipodi:role="line"
+           id="tspan157379"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g157393"
+       transform="translate(323.0836,300.73403)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Red_de_celdas#Movimiento_de_celda_a_celda_y_traspaso&quot;)">
+      <title
+         id="title157385">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle157387"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text157391"><tspan
+           sodipodi:role="line"
+           id="tspan157389"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g157403"
+       transform="translate(323.25232,228.81271)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Red_de_celdas#%C3%81rea_de_cobertura_de_una_celda&quot;)">
+      <title
+         id="title157395">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle157397"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text157401"><tspan
+           sodipodi:role="line"
+           id="tspan157399"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g159771"
+       transform="translate(436.35124,-118.58548)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_1G&quot;)">
+      <title
+         id="title159763">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle159765"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text159769"><tspan
+           sodipodi:role="line"
+           id="tspan159767"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g159781"
+       transform="translate(436.35124,-82.354119)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_2G&quot;)">
+      <title
+         id="title159773">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle159775"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text159779"><tspan
+           sodipodi:role="line"
+           id="tspan159777"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g159791"
+       transform="translate(436.35124,-43.724928)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_3G&quot;)">
+      <title
+         id="title159783">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle159785"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text159789"><tspan
+           sodipodi:role="line"
+           id="tspan159787"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g159801"
+       transform="translate(436.35124,-1.9208939)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_4G&quot;)">
+      <title
+         id="title159793">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle159795"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text159799"><tspan
+           sodipodi:role="line"
+           id="tspan159797"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g159811"
+       transform="translate(436.35124,35.649736)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_5G&quot;)">
+      <title
+         id="title159803">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle159805"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text159809"><tspan
+           sodipodi:role="line"
+           id="tspan159807"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g162747"
+       transform="translate(646.39718,-83.361526)"
+       onclick="window.open(&quot;https://en.wikipedia.org/wiki/Base_transceiver_station&quot;)">
+      <title
+         id="title162739">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle162741"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text162745"><tspan
+           sodipodi:role="line"
+           id="tspan162743"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g162757"
+       transform="translate(646.39718,-59.019844)"
+       onclick="window.open(&quot;https://en.wikipedia.org/wiki/Base_station_subsystem#Base_station_controller&quot;)">
+      <title
+         id="title162749">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle162751"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text162755"><tspan
+           sodipodi:role="line"
+           id="tspan162753"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g162767"
+       transform="translate(646.39718,-34.148995)"
+       onclick="window.open(&quot;https://www.emnify.com/iot-glossary/mobile-switching-center&quot;)">
+      <title
+         id="title162759">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle162761"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text162765"><tspan
+           sodipodi:role="line"
+           id="tspan162763"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g163210"
+       transform="translate(322.88001,179.03781)"
+       onclick="window.open(&quot;https://en.wikipedia.org/wiki/Base_station_subsystem#Sectorization&quot;)">
+      <title
+         id="title163202">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle163204"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text163208"><tspan
+           sodipodi:role="line"
+           id="tspan163206"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g166294"
+       transform="translate(323.0836,395.98463)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Interferencia_electromagn%C3%A9tica&quot;)">
+      <title
+         id="title166286">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle166288"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text166292"><tspan
+           sodipodi:role="line"
+           id="tspan166290"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="cross-talk"
+       transform="translate(41.030239,209.89135)">
+      <title
+         id="title77344">Consistente en que el abonado escucha interferencias de fondo debidas a una transmisión no deseada.</title>
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect75498"
+         width="70.893074"
+         height="10.038904"
+         x="309.06223"
+         y="233.56583"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="332.65317"
+         y="240.16348"
+         id="text75502"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="332.65317"
+           y="240.16348"
+           id="tspan75500">cross-talk</tspan></text>
+    </g>
+    <g
+       id="g168375"
+       transform="translate(15.656887)">
+      <rect
+         style="fill:#f8b400;fill-opacity:1;stroke:#000000;stroke-width:0.54443;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect166298"
+         width="70.893074"
+         height="10.038904"
+         x="334.43558"
+         y="459.34845"
+         ry="0.73316175" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="349.89368"
+         y="465.51926"
+         id="text166302"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+           x="349.89368"
+           y="465.51926"
+           id="tspan166300">Canal Adyacente</tspan></text>
+    </g>
+    <g
+       id="g199386"
+       transform="translate(322.69393,-118.22882)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil&quot;)">
+      <title
+         id="title199378">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle199380"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text199384"><tspan
+           sodipodi:role="line"
+           id="tspan199382"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g220524"
+       transform="translate(435.82207,388.57625)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Diafon%C3%ADa&quot;)">
+      <title
+         id="title220516">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle220518"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text220522"><tspan
+           sodipodi:role="line"
+           id="tspan220520"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g220945"
+       transform="translate(435.82207,245.26108)"
+       onclick="window.open(&quot;https://es.theastrologypage.com/macrocell&quot;)">
+      <title
+         id="title220937">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle220939"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text220943"><tspan
+           sodipodi:role="line"
+           id="tspan220941"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g220955"
+       transform="translate(435.82207,404.45135)"
+       onclick="window.open(&quot;https://es.wikipedia.org/wiki/Interferencia_de_canal_adyacente&quot;)">
+      <title
+         id="title220947">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle220949"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text220953"><tspan
+           sodipodi:role="line"
+           id="tspan220951"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g222253"
+       transform="translate(435.82207,340.91089)"
+       onclick="window.open(&quot;https://www.youtube.com/watch?v=Peh9qr96YJQ&quot;)">
+      <title
+         id="title222245">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle222247"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text222251"><tspan
+           sodipodi:role="line"
+           id="tspan222249"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g222263"
+       transform="translate(435.82207,325.03579)"
+       onclick="window.open(&quot;https://www.youtube.com/watch?v=Peh9qr96YJQ&quot;)">
+      <title
+         id="title222255">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle222257"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text222261"><tspan
+           sodipodi:role="line"
+           id="tspan222259"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g222273"
+       transform="translate(435.82207,309.16069)"
+       onclick="window.open(&quot;https://www.youtube.com/watch?v=Peh9qr96YJQ&quot;)">
+      <title
+         id="title222265">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle222267"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text222271"><tspan
+           sodipodi:role="line"
+           id="tspan222269"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g222283"
+       transform="translate(435.82207,293.28559)"
+       onclick="window.open(&quot;https://www.youtube.com/watch?v=Peh9qr96YJQ&quot;)">
+      <title
+         id="title222275">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle222277"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text222281"><tspan
+           sodipodi:role="line"
+           id="tspan222279"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g222984"
+       transform="translate(435.82207,229.38598)"
+       onclick="window.open(&quot;https://es.theastrologypage.com/microcell&quot;)">
+      <title
+         id="title222976">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle222978"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text222982"><tspan
+           sodipodi:role="line"
+           id="tspan222980"
+           style="font-size:8.46667px;stroke-width:0.264583"
+           x="-87.792023"
+           y="58.431683">?</tspan></text>
+    </g>
+    <g
+       id="g224432"
+       transform="translate(322.88001,204.29564)"
+       onclick="window.open(&quot;https://www.youtube.com/watch?v=X7qQq1Cb1fY&quot;)">
+      <title
+         id="title224424">Mas información</title>
+      <circle
+         style="fill:#38761d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle224426"
+         cx="-85.536865"
+         cy="55.289753"
+         r="4.2392211" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="-87.792023"
+         y="58.431683"
+         id="text224430"><tspan
+           sodipodi:role="line"
+           id="tspan224428"
            style="font-size:8.46667px;stroke-width:0.264583"
            x="-87.792023"
            y="58.431683">?</tspan></text>
